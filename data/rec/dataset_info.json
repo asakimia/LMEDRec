@@ -1,0 +1,8 @@
+{
+  "ml-100k_pt": {"file_name": "ml-100k_pt.json", "columns": {"prompt": "text"}},
+  "ml-100k_ft": {"file_name": "ml-100k_ft.json"},
+  "ml-100k_pd": {"file_name": "ml-100k_pd.json"},
+  "yelp_pt": {"file_name": "yelp_pt.json", "columns": {"prompt": "text"}},
+  "yelp_ft": {"file_name": "yelp_ft.json"},
+  "yelp_pd": {"file_name": "yelp_pd.json"}
+}
